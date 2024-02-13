@@ -169,6 +169,7 @@ footer {
       position: fixed;
       bottom: 0;
       right: 0;
+    margin-bottom: 5px;
  }
  footer :hover {
       color: rgb(22, 210, 243);
