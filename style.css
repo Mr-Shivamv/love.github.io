@@ -170,3 +170,7 @@ footer {
       bottom: 0;
       right: 0;
  }
+ footer :hover {
+      color: rgb(22, 210, 243);
+      text-shadow: 0 0 5px #12a022;
+ }
